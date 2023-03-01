@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ivanzka, a student at Holberton School and an aspiring Front-end deveploper</div>  
+### <div align="center">I'm Ivanzka, a student at Holberton School and an aspiring Full-stack developer</div>  
   
 
 <br/>  
